@@ -1,0 +1,24 @@
+_repo: Die-Novellen-um-Claudia_52478
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zweig, Arnold
+    birthdate: 1887
+    deathdate: 1968
+    gutenberg_agent_id: '46883'
+    url: http://www.gutenberg.org/2009/agents/46883
+description: ''
+gutenberg_issued: '2016-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52478'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- 20th century'
+- GITenberg
+title: Die Novellen um Claudia
+url: http://www.gutenberg.org/ebooks/52478
